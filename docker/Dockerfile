@@ -1,5 +1,5 @@
 
 FROM alpine:latest
 
-ADD rancher
-ADD kubectl
+ADD rancher /
+ADD kubectl /
